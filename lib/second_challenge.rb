@@ -13,6 +13,4 @@ end
   #code your solution here!
 groceries.values.flatten
 
-
-
 end
